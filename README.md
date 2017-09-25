@@ -1,4 +1,4 @@
 # DerbyCon2017
 Honored to once again speak at DerbyCon!
 
-As promised, the slides from my talk.  My conference notes will be up soon
+As promised, the slides from my talk.  Also have notes I took during the various sessions.
