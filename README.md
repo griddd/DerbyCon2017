@@ -1,4 +1,4 @@
 # DerbyCon2017
-Speaking at DerbyCon...woohoo!  This will hold slides and info from my talk
+Honored to once again speak at DerbyCon!
 
-Also notes that I took during sessions
+As promised, the slides from my talk.  My conference notes will be up soon
